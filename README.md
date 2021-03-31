@@ -1,2 +1,1 @@
-# web-dev-learning
-This Repo is made just for Learning
+# This Repo is made just for Learning
